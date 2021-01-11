@@ -12,6 +12,8 @@ Given that many of these third party link in bio pages are just a list of links 
 
 You can see an example of what this looks like here: [https://alexhyett.com/links](https://alexhyett.com/links).
 
+You can read more about it on my blog [How to Create a Link in Bio Page for Instagram](https://www.alexhyett.com/create-link-in-bio-page/).
+
 ## How to use
 
 You first need to update the profile section by changing the `h1` tag to your own name as well as changing the location and bio information. You will also want to add in your own profile photo. Your profile photo should be square.
