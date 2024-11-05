@@ -299,3 +299,8 @@ a.link:hover {
   background-color: #ff0000;
   box-shadow: 8px 8px 14px -8px #ff0000;
 }
+
+.calendar {
+  background-color: #0A2540;  /* 深藍色 */
+  box-shadow: 8px 8px 14px -8px #0A2540;
+}
